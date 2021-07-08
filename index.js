@@ -241,7 +241,8 @@ function appMenu() {
     if (!fs.existsSync(OUTPUT_DIR)) {
       fs.mkdirSync(OUTPUT_DIR)
     }
-    fs.writeFileSync(outputPath, render(teamMembers), "utf-8");
+    fs.writeFileSync('./dist/index.html', render(teamMembers), "utf-8");
+    console.log("Your team data is available! Check out Index.HTML")
   }
 
   createManager();
@@ -249,4 +250,3 @@ function appMenu() {
 }
 
 appMenu();
-
