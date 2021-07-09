@@ -1,3 +1,4 @@
+
 # Team Project Generator  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 Use this application to create a profiles for each member of your team.
 ## Acceptance Criteria:
@@ -36,7 +37,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ### Video of Functionality: 
--
+
+https://user-images.githubusercontent.com/79121046/125009979-9f918480-e033-11eb-94dc-a15742efee06.mp4
 
 ### Any Questions?
 If you have any questions contact me on [GitHub](https://github.com/DevinPawline) or contact 
